@@ -1,0 +1,19 @@
+{"time":"2025-10-20T14:28:41.8091347+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"C:\\Users\\13679\\Desktop\\code\\ultralytics\\wandb\\run-20251020_142841-aurd966a\\logs\\debug-core.log"}
+{"time":"2025-10-20T14:28:41.9671094+08:00","level":"INFO","msg":"created new stream","id":"aurd966a"}
+{"time":"2025-10-20T14:28:41.96766+08:00","level":"INFO","msg":"handler: started","stream_id":"aurd966a"}
+{"time":"2025-10-20T14:28:41.96766+08:00","level":"INFO","msg":"sender: started","stream_id":"aurd966a"}
+{"time":"2025-10-20T14:28:41.96766+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"aurd966a"}
+{"time":"2025-10-20T14:28:41.96766+08:00","level":"INFO","msg":"stream: started","id":"aurd966a"}
+{"time":"2025-10-20T14:28:42.612359+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-10-20T14:48:00.9385869+08:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/1367925914-/YOLOv8/aurd966a/file_stream","body":"{\"error\":\"rate limit exceeded\"}"}
+{"time":"2025-10-20T14:48:03.4862482+08:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/1367925914-/YOLOv8/aurd966a/file_stream","body":"{\"error\":\"rate limit exceeded\"}"}
+{"time":"2025-10-20T14:48:08.3180808+08:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/1367925914-/YOLOv8/aurd966a/file_stream","body":"{\"error\":\"rate limit exceeded\"}"}
+{"time":"2025-10-20T15:48:38.2257341+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-10-20T15:48:38.2277948+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-10-20T15:48:39.2368141+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run_aurd966a_model","runtime_seconds":4.7822700000000005,"subtasks":[{"desc":"best.pt","runtime_seconds":3.5302126,"progress":"15.9MB/19.0MB"}]},{"desc":"uploading artifact run-aurd966a-curvesF1-ConfidenceB_table","runtime_seconds":2.9117268},{"desc":"uploading artifact run-aurd966a-curvesPrecision-ConfidenceB_table","runtime_seconds":1.9751476000000001},{"desc":"uploading artifact run-aurd966a-curvesRecall-ConfidenceB_table","runtime_seconds":1.0431318},{"desc":"uploading config.yaml","runtime_seconds":0.2618312,"progress":"8.7KB/8.7KB"}],"total_operations":5}}
+{"time":"2025-10-20T15:48:41.3284336+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-20T15:48:42.9496978+08:00","level":"INFO","msg":"stream: closing","id":"aurd966a"}
+{"time":"2025-10-20T15:48:42.9496978+08:00","level":"INFO","msg":"handler: closed","stream_id":"aurd966a"}
+{"time":"2025-10-20T15:48:42.9496978+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"aurd966a"}
+{"time":"2025-10-20T15:48:42.9502441+08:00","level":"INFO","msg":"sender: closed","stream_id":"aurd966a"}
+{"time":"2025-10-20T15:48:42.9502441+08:00","level":"INFO","msg":"stream: closed","id":"aurd966a"}

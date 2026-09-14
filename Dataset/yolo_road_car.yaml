@@ -1,0 +1,13 @@
+
+train: C:\Users\13679\Desktop\code\ultralytics\Dataset\images\train
+val: C:\Users\13679\Desktop\code\ultralytics\Dataset\images\val
+
+
+nc: 5
+
+names:
+  - 'car'
+  - 'van'
+  - 'bike'
+  - 'truck'
+  - 'bus'

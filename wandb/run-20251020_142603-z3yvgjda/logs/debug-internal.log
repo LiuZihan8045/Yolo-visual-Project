@@ -1,0 +1,7 @@
+{"time":"2025-10-20T14:26:03.7257064+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"C:\\Users\\13679\\Desktop\\code\\ultralytics\\wandb\\run-20251020_142603-z3yvgjda\\logs\\debug-core.log"}
+{"time":"2025-10-20T14:26:04.4182781+08:00","level":"INFO","msg":"created new stream","id":"z3yvgjda"}
+{"time":"2025-10-20T14:26:04.4188324+08:00","level":"INFO","msg":"stream: started","id":"z3yvgjda"}
+{"time":"2025-10-20T14:26:04.4188324+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"z3yvgjda"}
+{"time":"2025-10-20T14:26:04.4188324+08:00","level":"INFO","msg":"sender: started","stream_id":"z3yvgjda"}
+{"time":"2025-10-20T14:26:04.4188324+08:00","level":"INFO","msg":"handler: started","stream_id":"z3yvgjda"}
+{"time":"2025-10-20T14:26:05.1607341+08:00","level":"INFO","msg":"Starting system monitor"}

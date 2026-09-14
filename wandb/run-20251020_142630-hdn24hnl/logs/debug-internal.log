@@ -1,0 +1,18 @@
+{"time":"2025-10-20T14:26:30.2504036+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"C:\\Users\\13679\\Desktop\\code\\ultralytics\\wandb\\run-20251020_142630-hdn24hnl\\logs\\debug-core.log"}
+{"time":"2025-10-20T14:26:30.4050135+08:00","level":"INFO","msg":"created new stream","id":"hdn24hnl"}
+{"time":"2025-10-20T14:26:30.4050135+08:00","level":"INFO","msg":"stream: started","id":"hdn24hnl"}
+{"time":"2025-10-20T14:26:30.4055316+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"hdn24hnl"}
+{"time":"2025-10-20T14:26:30.4055316+08:00","level":"INFO","msg":"sender: started","stream_id":"hdn24hnl"}
+{"time":"2025-10-20T14:26:30.4055316+08:00","level":"INFO","msg":"handler: started","stream_id":"hdn24hnl"}
+{"time":"2025-10-20T14:26:31.0260151+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-10-20T14:26:41.0416577+08:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 33416"}
+{"time":"2025-10-20T14:26:51.044825+08:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 33416"}
+{"time":"2025-10-20T14:27:01.0429084+08:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 33416"}
+{"time":"2025-10-20T14:27:11.0421485+08:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 33416"}
+{"time":"2025-10-20T14:27:21.0419256+08:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 33416"}
+{"time":"2025-10-20T14:27:31.041412+08:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 33416"}
+{"time":"2025-10-20T14:27:41.0409316+08:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 33416"}
+{"time":"2025-10-20T14:27:51.0466735+08:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 33416"}
+{"time":"2025-10-20T14:28:01.0448532+08:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 33416"}
+{"time":"2025-10-20T14:28:11.0471297+08:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 33416"}
+{"time":"2025-10-20T14:28:21.0403056+08:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 33416"}

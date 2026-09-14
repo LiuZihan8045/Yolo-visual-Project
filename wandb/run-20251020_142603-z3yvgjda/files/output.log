@@ -1,0 +1,7 @@
+Freezing layer 'model.22.dfl.conv.weight'
+[34m[1mAMP: [0mrunning Automatic Mixed Precision (AMP) checks with YOLOv8n...
+Downloading https://github.com/ultralytics/assets/releases/download/v8.3.0/yolov8n.pt to 'yolov8n.pt'...
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 6.25M/6.25M [00:02<00:00, 3.02MB/s]
+[34m[1mAMP: [0mchecks passed ✅
+[34m[1mtrain: [0mScanning C:\Users\13679\Desktop\code\ultralytics\Dataset\train\labels... 2967 images, 0 backgrounds, 0 corrupt: 100%|██████████| 2967/2967 [00:02<00:00, 120[0m
+[34m[1mtrain: [0mNew cache created: C:\Users\13679\Desktop\code\ultralytics\Dataset\train\labels.cache
